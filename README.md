@@ -56,18 +56,16 @@ Resposta da IA:
 
 
 ## Como Executar
-Para executar, abra o notebook no Google Colab.
-
-Link do notebook:
+1. Para executar, abra o notebook no Google Colab.
 
 [https://colab.research.google.com/](https://colab.research.google.com/drive/1Ge0NgtTsVarNlBi-AJ8n26DeiTFcLzeG?usp=sharing)
 
-- Execute as células na ordem apresentada.
+2. Execute as células na ordem apresentada.
 
-O ambiente instalará automaticamente:
+3. O ambiente instalará automaticamente:
 - Ollama
 - Modelo Llama 3.2
-- Execute o programa principal para gerar os relatórios da missão.
+4. Execute o programa principal para gerar os relatórios da missão.
 
 ## Exemplo de Saída
 O sistema exibe:
