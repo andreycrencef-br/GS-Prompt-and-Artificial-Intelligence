@@ -1,1 +1,87 @@
 # GS-Prompt-and-Artificial-Intelligence
+
+Integrantes:
+
+Andrey Crence Fernandes - 573840
+
+Arthur de Oliveira Carvalho - 573499
+
+Gabriel Henrique Silva de Melo Rodrigues - 573093
+
+## Sobre o Projeto
+
+O Mission Control AI é um sistema de monitoramento de missão espacial desenvolvido em Python.
+
+O programa simula parâmetros importantes da missão, como temperatura, nível de energia, comunicação e estado dos módulos da nave. Com base nesses dados, o sistema gera alertas automáticos, toma decisões de resposta e classifica a situação da missão.
+
+Além disso, o projeto utiliza Inteligência Artificial através do modelo Llama 3.2 executado localmente com Ollama para analisar o cenário da missão e gerar uma explicação contextual baseada nos alertas detectados.
+
+## Tecnologias Utilizadas
+- Python 3
+- Google Colab
+- Ollama
+- Llama 3.2 (1B)
+- Biblioteca Random
+
+## Funcionalidades
+- Simulação automática dos dados da missão
+- Monitoramento de temperatura
+- Monitoramento de energia
+- Monitoramento de comunicação
+- Monitoramento dos módulos da nave
+- Geração automática de alertas
+- Sistema de tomada de decisão automática
+- Classificação do status da missão
+- Integração com IA para análise operacional
+
+## Demonstração
+Cenário Normal:
+
+
+
+
+Cenário de Atenção:
+
+
+
+
+Cenário Crítico:
+
+
+
+
+Resposta da IA:
+
+
+
+
+## Como Executar
+Para executar, abra o notebook no Google Colab.
+
+Link do notebook:
+
+[https://colab.research.google.com/](https://colab.research.google.com/drive/1Ge0NgtTsVarNlBi-AJ8n26DeiTFcLzeG?usp=sharing)
+
+- Execute as células na ordem apresentada.
+
+O ambiente instalará automaticamente:
+- Ollama
+- Modelo Llama 3.2
+- Execute o programa principal para gerar os relatórios da missão.
+
+## Exemplo de Saída
+O sistema exibe:
+
+- Dados da missão
+- Estado dos módulos
+- Alertas detectados
+- Ações automáticas executadas
+- Status geral da missão
+- Análise gerada pela IA
+
+## Vídeo de Demonstração
+https://
+
+Repositório GitHub
+
+Link do projeto:
