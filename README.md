@@ -65,6 +65,7 @@ Resposta da IA:
 3. O ambiente instalará automaticamente:
 - Ollama
 - Modelo Llama 3.2
+
 4. Execute o programa principal para gerar os relatórios da missão.
 
 ## Exemplo de Saída
@@ -79,7 +80,3 @@ O sistema exibe:
 
 ## Vídeo de Demonstração
 https://
-
-Repositório GitHub
-
-Link do projeto:
