@@ -37,19 +37,19 @@ Além disso, o projeto utiliza Inteligência Artificial através do modelo Llama
 ## Demonstração
 Cenário Normal:
 
-![Cenário Normal](assets/Estado20%normal.png)
+![Cenário Normal](assets/Estado%20normal.png)
 
 Cenário de Atenção:
 
-![Cenário Normal](assets/Estado atenção.png)
+![Cenário Normal](assets/Estadoa%20tenção.png)
 
 Cenário Crítico:
 
-![Cenário Normal](assets/Estado20%critico.png)
+![Cenário Normal](assets/Estado%20critico.png)
 
 Resposta da IA:
 
-![Cenário Normal](assets/Estado20%IA.png)
+![Cenário Normal](assets/Estado%20IA.png)
 
 ## Como Executar
 1. Para executar, abra o notebook no Google Colab.
