@@ -54,7 +54,7 @@ Resposta da IA:
 ## Como Executar
 1. Para executar, abra o notebook no Google Colab.
 
-[https://colab.research.google.com/](https://colab.research.google.com/drive/1Ge0NgtTsVarNlBi-AJ8n26DeiTFcLzeG?usp=sharing)
+[Google Colab](https://colab.research.google.com/drive/1Ge0NgtTsVarNlBi-AJ8n26DeiTFcLzeG?usp=sharing)
 
 2. Execute as células na ordem apresentada.
 
@@ -75,4 +75,4 @@ O sistema exibe:
 - Análise gerada pela IA
 
 ## Vídeo de Demonstração
-[https://youtu.be/](https://youtu.be/XDH7--g_hPY)
+[Video de Demonstração](https://youtu.be/XDH7--g_hPY)
