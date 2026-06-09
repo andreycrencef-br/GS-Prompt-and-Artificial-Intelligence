@@ -75,4 +75,4 @@ O sistema exibe:
 - Análise gerada pela IA
 
 ## Vídeo de Demonstração
-[https://](https://youtu.be/XDH7--g_hPY)
+[https://youtu.be/](https://youtu.be/XDH7--g_hPY)
