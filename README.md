@@ -10,7 +10,7 @@ Gabriel Henrique Silva de Melo Rodrigues - 573093
 
 ## Sobre o Projeto
 
-O Mission Control AI é um sistema de monitoramento de missão espacial desenvolvido em Python.
+O SKYGUARD AI é um sistema de monitoramento de missão espacial desenvolvido em Python.
 
 O programa simula parâmetros importantes da missão, como temperatura, nível de energia, comunicação e estado dos módulos da nave. Com base nesses dados, o sistema gera alertas automáticos, toma decisões de resposta e classifica a situação da missão.
 
@@ -49,7 +49,7 @@ Cenário Crítico:
 
 Resposta da IA:
 
-![Cenário Normal](assets/Estado%20IA.png)
+![Resposta IA](assets/IA.png)
 
 ## Como Executar
 1. Para executar, abra o notebook no Google Colab.
