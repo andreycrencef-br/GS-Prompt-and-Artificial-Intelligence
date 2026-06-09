@@ -36,15 +36,19 @@ Além disso, o projeto utiliza Inteligência Artificial através do modelo Llama
 
 ## Demonstração
 Cenário Normal:
+
 ![Cenário Normal](assets/Estado20%normal.png)
 
 Cenário de Atenção:
+
 ![Cenário Normal](assets/Estado20%atenção.png)
 
 Cenário Crítico:
+
 ![Cenário Normal](assets/Estado20%critico.png)
 
 Resposta da IA:
+
 ![Cenário Normal](assets/Estado20%IA.png)
 
 ## Como Executar
