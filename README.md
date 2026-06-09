@@ -41,7 +41,7 @@ Cenário Normal:
 
 Cenário de Atenção:
 
-![Cenário Normal](assets/Estadoa%20tenção.png)
+![Cenário Atenção](assets/Estado%20atenção.png)
 
 Cenário Crítico:
 
